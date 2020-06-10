@@ -49,7 +49,7 @@ body {
 	--color-text: #239c34;
     --color-bg: #000000;
     --color-link: #ffffff;
-    --color-link-hover: #000000;
+    --color-link-hover: #ccc;
     --color-content-title-sub: #ffffff;
     --cursor-stroke: #239c34;
     --cursor-fill: none;

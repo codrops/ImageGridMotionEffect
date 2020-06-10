@@ -6,7 +6,7 @@ A motion effect for images in a grid on mouse move.
 
 [Article on Codrops](https://tympanus.net/codrops/?p=50073)
 
-[Demo](http://tympanus.net/Tutorial/ImageGridMotionEffect/)
+[Demo](http://tympanus.net/Tutorials/ImageGridMotionEffect/)
 
 
 ## Installation

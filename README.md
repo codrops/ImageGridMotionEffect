@@ -1,6 +1,6 @@
 # Image Grid Motion Effect
 
-A motion effect for images in a grid on mouse move. 
+A motion hover effect for a background grid of images.
 
 ![Image Grid Motion Effect](https://tympanus.net/codrops/wp-content/uploads/2020/06/MotionGrid_featured.jpg)
 

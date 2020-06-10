@@ -2,7 +2,7 @@
 
 A motion effect for images in a grid on mouse move. 
 
-![Image Title](link)
+![Image Grid Motion Effect](https://tympanus.net/codrops/wp-content/uploads/2020/06/MotionGrid_featured.jpg)
 
 [Article on Codrops](https://tympanus.net/codrops/?p=50073)
 
